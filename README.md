@@ -1,1 +1,1 @@
-# simple_shell
+shell implementation with c language
